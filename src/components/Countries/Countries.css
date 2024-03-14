@@ -1,0 +1,11 @@
+.fullbox{
+border: 2px solid  black ;
+padding: 8px ;
+margin-bottom: 12px;
+border-radius: 12px;
+}
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    gap: 12px;
+}
