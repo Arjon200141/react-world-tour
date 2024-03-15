@@ -9,3 +9,7 @@ border-radius: 12px;
     grid-template-columns: repeat(3 , 1fr);
     gap: 12px;
 }
+.visitedCount{
+    font-size: large;
+    font-weight: 600;
+}

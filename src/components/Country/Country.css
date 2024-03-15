@@ -5,3 +5,6 @@
     border-radius: 12px;
     width: 360px;
 }
+.visited{
+    background-color: aqua;
+}
